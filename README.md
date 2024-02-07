@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi, I'm Annunziata! 👋
+
+🤖 Data Science & Machine Learning
+🎓 Studied Computer Science at the University of Fisciano, Italy
+💻 Web Developer Freelancer
+📚 Currently learning about artificial intelligence
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Annunziata-Elefante&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Annunziata-Elefante/Annunziata-Elefante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
