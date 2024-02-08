@@ -1,10 +1,11 @@
 # 👋 Hi, I'm Annunziata! 
 
-🤖 Data Science & Machine Learning </br>
-🎓 Studied Computer Science at the University of Fisciano, Italy </br>
-💻 Web Developer Freelancer || MyPortfolio at [MyPortfolio](http://nunziaelefante.my.canva.site/) </br>
-🌱 Currently learning about artificial intelligence </br>
+🤖 Data Science & Machine Learning || 🎓 University of Fisciano, Italy </br>
+💻 Web Developer Freelancer || 📒 [MyPortfolio](http://nunziaelefante.my.canva.site/) </br>
+🌱 Currently learning about Artificial Intelligence </br>
 ✉️  You can contact me at [nunziaelefante@mail.com](mailto:nunziaelefante@mail.com) </br>
+<!-- 🎓 Studied Computer Science at the  </br> -->
+
 
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
