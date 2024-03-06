@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Annunziata! 
 
-🤖 Data Science & Machine Learning || 🎓 University of Fisciano, Italy </br>
+🤖 Data Scientist & Machine Learning Engineer
 💻 Web Developer Freelancer || 📒 [MyPortfolio](http://nunziaelefante.my.canva.site/) </br>
+🎓 University of Fisciano, Italy </br>
 🌱 Currently learning about Artificial Intelligence </br>
 ✉️  You can contact me at [nunziaelefante@mail.com](mailto:nunziaelefante@mail.com) </br>
 <!-- 🎓 Studied Computer Science at the  </br> -->
