@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Annunziata! 
 
-🤖 Data Scientist & Machine Learning Engineer
+🤖 Data Scientist & Machine Learning Engineer </br>
 💻 Web Developer Freelancer || 📒 [MyPortfolio](http://nunziaelefante.my.canva.site/) </br>
 🎓 University of Fisciano, Italy </br>
 🌱 Currently learning about Artificial Intelligence </br>
